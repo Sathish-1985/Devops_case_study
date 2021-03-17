@@ -14,7 +14,7 @@
     docker_login:
       username: XXXXXXXXX
       password: XXXXXXXXX
-      email: sathihkumaran85@gmail.com
+      email: sathishkumaran85@gmail.com
 
   - name: push image on to dockerhub
     command: docker push sathishsekhar/simple-devops-image
